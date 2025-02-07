@@ -7,4 +7,5 @@
 ## All Performance overview_Fall Data [Visualization](AllPerformance.md)
 ## Offering and Sale_Fall Data [Visualization](Offeringsale.md)
 ## Zip codes overview_Fall Data [Tables](Zipcodes.md)
+## Unique IDs: Venn Diagram_Summer Data [Venn Diagram](venn.md)
 ## Loyal customer overview_Summer Data [Visualization](loyal.md)
