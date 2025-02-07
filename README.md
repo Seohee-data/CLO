@@ -1,7 +1,7 @@
 # CLO 
 
 ## Audience Trends: Churn overview, Ticket type overview & Flow_Summer Data [Visualization](Flow.md)
-## Zipcode overview by year [Treemap](zipcodetree.md)
+## Zipcode overview by year_Summer Data [Treemap](zipcodetree.md)
 ## Capacity overview_Fall Data [Visualization](Capacity.md)
 ## Carol overview_Fall Data [Visualization](Carol.md)
 ## All Performance overview_Fall Data [Visualization](AllPerformance.md)
